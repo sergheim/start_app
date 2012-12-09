@@ -3,21 +3,21 @@ development:
   encoding: unicode
   database: start_app_development
   pool: 5
-  username: mulbree
-  password: spikS^lEz~93
+  username: 
+  password: 
 
 test:
   adapter: postgresql
   encoding: unicode
   database: start_app_test
   pool: 5
-  username: mulbree
-  password: spikS^lEz~93
+  username: 
+  password: 
 
 production:
   adapter: postgresql
   encoding: unicode
   database: start_app_production
   pool: 5
-  username: mulbree
-  password: spikS^lEz~93
+  username: 
+  password: 
